@@ -1,5 +1,5 @@
 {
-    "name": "azimi/dropbox-php-sdk",
+    "name": "azimidev/dropbox-php-sdk",
     "description": "Dropbox PHP API V2 SDK (Unofficial)",
     "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
     "license": "MIT",
